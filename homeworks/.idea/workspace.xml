@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20c88d2d-5710-4599-adc7-406ac97a0bee" name="Default" comment="" />
+    <ignored path="homeworks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="homeworks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PHP_Intensiv.php" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subaru/PHP_Intensiv.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP-Test-Zin.php" pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHP-Test-Zin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions_forms_tasks/13.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classic.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classic.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/3.hphp" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/4.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/5.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/6.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/7.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/8.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/9.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/10.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/11.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/12.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/13.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/14.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/15.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/16.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/17.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/18.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/19.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/20.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/21.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/23.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/24.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/25.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/27.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/28.php" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/26.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/1/1.html" />
+        <option value="$PROJECT_DIR$/arrays_loops_tasks/22.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/12.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/13.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/11.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/4.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/5.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/9/9.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/10/10.html" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/10/10.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/1/1.php" />
+        <option value="$PROJECT_DIR$/subaru/index.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/2/2.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/2/2.html" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/9/9.html" />
+        <option value="$PROJECT_DIR$/HTML-Test.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/console.sql" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/3/3.txt" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/3/3.html" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks/3/3.php" />
+        <option value="$PROJECT_DIR$/PHP-Test-Zin.php" />
+        <option value="$PROJECT_DIR$/sample.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1bea3af8-5db9-4da5-9918-c1db9cabcae9/console.sql" />
+        <option value="C:/index.php" />
+        <option value="$PROJECT_DIR$/subaru/PHP_Intensiv.php" />
+        <option value="C:/php/php.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from XAMPP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="PHP Script.13.php">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="13.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/arrays_loops_tasks/13.php">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.13.php" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c88d2d-5710-4599-adc7-406ac97a0bee" name="Default" comment="" />
+      <created>1488501433453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488501433453</updated>
+      <workItem from="1488501435155" duration="145000" />
+      <workItem from="1488501582473" duration="698000" />
+      <workItem from="1488502431178" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2641369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/6.php" />
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/9.php" />
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/8.php" />
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/7.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_types.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Testirovanie/QA Docs_Netvertise/PHP START/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/28.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/5.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="529" column="16" selection-start-line="529" selection-start-column="16" selection-end-line="529" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/22.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/19742f49-f091-4f12-be7b-37de05b5fb5f/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/63814224/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.table 1" />
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/23.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/4.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/3/3_new.txt" />
+    <entry file="dbDummy://dbtable:/63814224/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.sample" />
+    <entry file="dbDummy://dbtable:/63814224/1bea3af8-5db9-4da5-9918-c1db9cabcae9/classicmodels.products" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/9/9.html" />
+    <entry file="file://$PROJECT_DIR$/Test.html" />
+    <entry file="file://$PROJECT_DIR$/HTML-Test.html" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/10/10.html" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/1/1.html" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/1/1.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/10/10.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/11.php" />
+    <entry file="file://C:/index.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/2/2.html" />
+    <entry file="file://$PROJECT_DIR$/php_basics_tasks/13.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/12.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/9/9.php" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/3/3.txt" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/3/3.html" />
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/3/3.php" />
+    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks/13.php" />
+    <entry file="file://C:/php/php.ini" />
+    <entry file="file://$PROJECT_DIR$/pi.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1bea3af8-5db9-4da5-9918-c1db9cabcae9/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/54382f5/1bea3af8-5db9-4da5-9918-c1db9cabcae9/classic.orders" />
+    <entry file="dbDummy://dbtable:/54382f5/1bea3af8-5db9-4da5-9918-c1db9cabcae9/classic.employees" />
+    <entry file="dbDummy://dbtable:/54382f5/1bea3af8-5db9-4da5-9918-c1db9cabcae9/classic.customers" />
+    <entry file="file://$PROJECT_DIR$/sample.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/54382f5/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.table 1" />
+    <entry file="dbDummy://dbtable:/54382f5/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.movies_table" />
+    <entry file="dbDummy://dbtable:/54382f5/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.genres" />
+    <entry file="dbDummy://dbtable:/54382f5/c4567ab4-c7bc-4cb5-943e-81c1d2b8193d/test.actors" />
+    <entry file="file://$PROJECT_DIR$/classic.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subaru/PHP_Intensiv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP-Test-Zin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks/13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
